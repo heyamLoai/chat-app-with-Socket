@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NetworkProjectFinal</string>
+    <string name="tab_text_1">Users</string>
+    <string name="tab_text_2">Groups</string>
+</resources>
